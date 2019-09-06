@@ -30,7 +30,7 @@ back.
 1. [Presentation slides](https://docs.google.com/presentation/d/1PlYQhP-6xH_jZu1oHBQnqYC1JW1sE8KQ7PmURP3wpIw/edit?usp=sharing)
 2. [Code Examples](https://github.com/dskard/spiro-plumber)
 
-### rstudio::conf(2019) Recapo
+### rstudio::conf(2019) Recap
 
 If you didn't get a change to go to rstudio::conf(2019), check out some of the presentations I attended and recommend to others. Links to recorded presentations are in the slides!
 
