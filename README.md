@@ -1,17 +1,10 @@
 # Abbott Symposium 2019
 
-### Analysis to Web Application
-
-You've done the hard work of developing a model and now you're the go to person
-for performing the analysis. Empower others to quickly get started using your
-model by turning it into a web application. Not a HTML and JavaScript wizard?
-No problem. The Shiny library lets you write R code to put develop the
-interface to accept inputs from the user, tie it to your analysis, and
-visualize the outputs.
+### Workshop Materials
 
 #### Resources
-1. [Presentation slides](https://docs.google.com/presentation/d/1zRikpQDjo9hy-e9evNlFDegYpEY1CXa8CjkAlEUDxgM/edit?usp=sharing)
-2. [Code Examples](https://github.com/dskard/spiro-shiny)
+1. [Presentation slides](https://github.com/philbowsher/Foundation-of-the-R-Workflow-workshop-2019-09-06/blob/master/Foundation_of_the_R_Workflow_09042019.pdf)
+2. [Git Repository](https://github.com/philbowsher/Foundation-of-the-R-Workflow-workshop-2019-09-06)
 
 ### Analysis to HTTP API
 
@@ -30,9 +23,11 @@ back.
 1. [Presentation slides](https://docs.google.com/presentation/d/1PlYQhP-6xH_jZu1oHBQnqYC1JW1sE8KQ7PmURP3wpIw/edit?usp=sharing)
 2. [Code Examples](https://github.com/dskard/spiro-plumber)
 
-### rstudio::conf(2019) Recapo
+### renv - towards reproducible R code with packages and lockfiles
 
-If you didn't get a change to go to rstudio::conf(2019), check out some of the presentations I attended and recommend to others. Links to recorded presentations are in the slides!
+A follow up package for Packrat
 
 #### Resources
-1. [Presentation slides](https://docs.google.com/presentation/d/1cSF281fuRRT-ci0ysOzK4RAKh6Ky2OXmF6dVcs3IvR8/edit?usp=sharing)
+1. [Presentation slides]()
+2. [renv on GitHUB](https://github.com/rstudio/renv)
+3. [Documentation](https://rstudio.github.io/renv/)
